@@ -1,4 +1,4 @@
-package com.pefonseca.orchestrator_service;
+package com.pefonseca.orchestrator.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

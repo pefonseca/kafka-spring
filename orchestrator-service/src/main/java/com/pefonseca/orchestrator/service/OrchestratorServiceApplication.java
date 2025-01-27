@@ -1,13 +1,13 @@
-package com.pefonseca.payment_service;
+package com.pefonseca.orchestrator.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PaymentServiceApplication {
+public class OrchestratorServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PaymentServiceApplication.class, args);
+		SpringApplication.run(OrchestratorServiceApplication.class, args);
 	}
 
 }

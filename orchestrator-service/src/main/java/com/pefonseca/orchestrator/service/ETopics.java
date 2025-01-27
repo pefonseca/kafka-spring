@@ -1,4 +1,4 @@
-package com.pefonseca.orchestrator_service;
+package com.pefonseca.orchestrator.service;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

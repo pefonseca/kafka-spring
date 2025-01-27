@@ -1,4 +1,4 @@
-package com.pefonseca.order_service;
+package com.pefonseca.order.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
