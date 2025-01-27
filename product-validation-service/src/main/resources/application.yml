@@ -22,6 +22,9 @@ spring:
       group-id: product-validation-group
       auto-offset-reset: latest
 
+server:
+  port: 8090
+
 logging:
   level:
     org:

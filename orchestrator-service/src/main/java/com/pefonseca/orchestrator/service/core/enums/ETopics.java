@@ -1,4 +1,4 @@
-package com.pefonseca.orchestrator.service;
+package com.pefonseca.orchestrator.service.core.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
