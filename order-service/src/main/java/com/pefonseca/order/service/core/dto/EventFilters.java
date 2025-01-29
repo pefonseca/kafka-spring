@@ -1,4 +1,4 @@
-package com.pefonseca.orchestrator.service.core.dto;
+package com.pefonseca.order.service.core.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,9 +9,9 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class OrderProducts {
+public class EventFilters {
 
-    private Product product;
-    private int quantity;
+    private String orderId;
+    private String transactionId;
 
 }

@@ -1,6 +1,6 @@
 package com.pefonseca.inventory.service.core.dto;
 
-import com.pefonseca.payment.service.core.enums.ESagaStatus;
+import com.pefonseca.inventory.service.core.enums.ESagaStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
