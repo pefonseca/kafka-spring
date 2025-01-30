@@ -36,7 +36,7 @@ services:
     networks:
       - orchestrator-saga
     ports:
-      - "5433:3306"
+      - "3307:3306"
 
   inventory-db:
     container_name: inventory-db
